@@ -1,4 +1,4 @@
-::Rdicon v0.1
+::Rdicon v1.0
 ::Author: Mario Alanzo Junior Mills 1 Nov 2017
 setlocal EnableDelayedExpansion
 dir icon /b /a-d> listforicons.txt
