@@ -1,6 +1,5 @@
 ::Rdicon v0.1
 ::Author: Mario Alanzo Junior Mills 1 Nov 2017
-::License: GNU GPL
 setlocal EnableDelayedExpansion
 dir icon /b /a-d> listforicons.txt
 ::
